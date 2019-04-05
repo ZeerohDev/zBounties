@@ -1,9 +1,0 @@
-C:\Users\Zero\source\repos\zBounties\zBounties\bin\Debug\zBountiesClient.net.dll
-C:\Users\Zero\source\repos\zBounties\zBounties\bin\Debug\zBountiesClient.net.pdb
-C:\Users\Zero\source\repos\zBounties\zBounties\bin\Debug\CitizenFX.Core.Client.dll
-C:\Users\Zero\source\repos\zBounties\zBounties\bin\Debug\CitizenFX.Core.Client.xml
-C:\Users\Zero\source\repos\zBounties\zBounties\obj\Debug\zBountiesClient.csprojAssemblyReference.cache
-C:\Users\Zero\source\repos\zBounties\zBounties\obj\Debug\zBountiesClient.csproj.CoreCompileInputs.cache
-C:\Users\Zero\source\repos\zBounties\zBounties\obj\Debug\zBountiesClient.csproj.CopyComplete
-C:\Users\Zero\source\repos\zBounties\zBounties\obj\Debug\zBountiesClient.net.dll
-C:\Users\Zero\source\repos\zBounties\zBounties\obj\Debug\zBountiesClient.net.pdb
